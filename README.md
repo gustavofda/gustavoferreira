@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Akirasetti
-- 👀 I’m interested in  Front end 
-- 🌱 I’m currently learnin ciências da computação 
-- 💞️ I’m looking to collaborate on  desenvolver programas Front-end
+- 👋 Hi, I’m Gustavo
+- 👀 I’m interested in Front end 
+- 🌱 I’m currently learnin Computer science in CS50 Havard 
 - 📫 How to reach me  @gustavoaraujo2017fise@gmail.com
 
 <!---
